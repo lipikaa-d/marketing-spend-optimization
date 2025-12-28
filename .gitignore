@@ -1,0 +1,7 @@
+.idea/
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+
+# Excel temp files
+~$*.xlsx

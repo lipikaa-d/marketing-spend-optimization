@@ -24,6 +24,20 @@ Weekly marketing performance data including:
 - No severe multicollinearity (VIF < 10)
 - Log transformation improves model stability and interpretability
 
+##  Project Screenshots
+
+### Excel-Based Decision Support Tool – Inputs
+![Excel Inputs](assets/screenshots/excel_inputs.png)
+
+### Excel-Based Decision Support Tool – Outputs
+![Excel Outputs](assets/screenshots/excel_outputs.png)
+
+### Marketing Channel Simulation Results
+![Simulation Results](assets/screenshots/simulation_results.png)
+
+### Sales Distribution (EDA)
+![EDA](assets/screenshots/eda_sales_distribution.png)
+
 ## Tech Stack
 Python, Pandas, NumPy, Scikit-learn, Statsmodels, Matplotlib, Seaborn
 
